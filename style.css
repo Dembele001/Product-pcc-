@@ -1,0 +1,48 @@
+body{
+    background-color: rgba(250, 233, 210, 0.973);
+}
+.card{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    border: 0px solid white;
+    padding: 0px;
+    margin: 350px;
+}
+
+.card img{
+    width: 300px;
+    height: 400px;
+    margin-right: 25px;
+}
+
+.text h2{
+    font-size: small;
+    color: gray;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.text h1{
+    font-size: 30px;
+}
+
+
+.green{
+    color: green;
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.grey{
+    color: grey;
+}
+
+.text p{
+    color: grey;
+    font-size: 18px;
+}
+button{
+    background-color: green;
+    color: white;
+    border-radius: 4px;
+    padding: 15px 50px;
+}
+
